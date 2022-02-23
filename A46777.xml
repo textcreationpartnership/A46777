@@ -1,0 +1,1075 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposition for the safety &amp; happiness of the King and kingdom, both in church and state, and prevention of the common enemy tendered to the consideration of His Majesty and the Parliament against their next session / by a lover of sincerity and peace.</title>
+            <author>Lover of sincerity &amp; peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46777</idno>
+            <idno type="STC">Wing J601</idno>
+            <idno type="STC">ESTC R26145</idno>
+            <idno type="EEBO-CITATION">09369839</idno>
+            <idno type="OCLC">ocm 09369839</idno>
+            <idno type="VID">42870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1311:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposition for the safety &amp; happiness of the King and kingdom, both in church and state, and prevention of the common enemy tendered to the consideration of His Majesty and the Parliament against their next session / by a lover of sincerity and peace.</title>
+                  <author>Lover of sincerity &amp; peace.</author>
+                  <author>Humfrey, John, 1621-1719.</author>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>94, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed falsely by Wing to David Jenkins, and possibly correctly attributed to John Humfrey by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain.</term>
+               <term>Dissenters, Religious --  Great Britain.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42870:1"/>
+            <pb facs="tcp:42870:1" rendition="simple:additions"/>
+            <p>A PROPOSITION FOR The Safety &amp; Happineſs of the King and Kingdom both in Church and State, and pre<g ref="char:EOLhyphen"/>vention of the Common Ene<g ref="char:EOLhyphen"/>my.</p>
+            <p>Tendered to the Conſideration of his Majeſty and the Parliament againſt their next Seſſion.</p>
+            <p>By a lover of Sincerity &amp; Peace.</p>
+            <p>The Intereſt of <hi>England</hi> lies in holding a firm Union in it ſelf, and the advancement of the <hi>Proteſtant Religion.</hi> For <hi>England</hi> is a mighty Animal, which can never die, except it kill it ſelf. <hi>The Duke of</hi> Roan <hi>in his Trea<g ref="char:EOLhyphen"/>tiſe of the Intereſt of the Princes and States in Chriſtendom.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposition">
+            <pb facs="tcp:42870:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:42870:2"/>
+            <head>A <hi>PROPOSITION</hi> for the ſafety and happineſs of the King and Kingdom.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed Heaven to viſit us of late with his heavy and aſtoniſh<g ref="char:EOLhyphen"/>ing Judgments. The year before he ſwept away our Citizens from their houſes; The laſt year he ſwept away our hou<g ref="char:EOLhyphen"/>ſes from the Inhabitants; And this year who knows what and who may be ſwept away by that diva<g ref="char:EOLhyphen"/>ſtation which accompanieth the Sword? If there be not a ſpark, as there is not a Sparrow, lights
+<pb n="4" facs="tcp:42870:3"/>on the <hi>Houſe,</hi> or the <hi>Maſt</hi> top without the Divine Will, me<g ref="char:EOLhyphen"/>thinks it will neither be unſeaſo<g ref="char:EOLhyphen"/>nable to lay his Providences to heart, nor unſuitable to make uſe of them, unto acts of mercy and commiſeration of others.</p>
+            <p>I am a perſon that am not very careful how I appear to you, and if it were a light matter I had to ſpeak about, you might turn away your ear from it, and regard me as little: But if it be a buſineſs of the greateſt conſequence (as I am perſwaded it is) that can be ten<g ref="char:EOLhyphen"/>dered at this preſent for a healing of the Nation, I hope you will both ſpare me a reaſonable hear<g ref="char:EOLhyphen"/>ing, and a candid interpretation.</p>
+            <p>There hath paſſed of late ſome Acts, whereby you have been ve<g ref="char:EOLhyphen"/>ry
+<pb n="5" facs="tcp:42870:3"/>ſevere againſt many innocent perſons that fear God, and do you no harm. I am loth to declare my reſentments in particular, un<g ref="char:EOLhyphen"/>leſs I have further neceſſity: But I will purſue in the general thoſe ends I have in my purpoſe, which are the happineſs of our State, the peace of the Church, the ſafe<g ref="char:EOLhyphen"/>ty of the King, and preſervation of the Nation, not in that way which hath been trodden hither<g ref="char:EOLhyphen"/>to in late proceedings, but in the paths of moderation, which ſome have not known, and ſome will not know, who have already per<g ref="char:EOLhyphen"/>haps impoſed too much, and would not (I hope) be impoſing more on us.</p>
+            <p>It ſhall be an Argument good enough for me from this late ca<g ref="char:EOLhyphen"/>lamity
+<pb n="6" facs="tcp:42870:4"/>on the City and upon our Ships, to alarm you to the quench<g ref="char:EOLhyphen"/>ing thoſe Flames which we have helped to enkindle by the over-rigour of ſuch Acts in the hearts of the Nation. God Almighty's righteous dealings towards us, may bring our <hi>own</hi> toward others into remembrance, and his ſeve<g ref="char:EOLhyphen"/>rity teach us indulgence. It can neither be an unchriſtian or un<g ref="char:EOLhyphen"/>wiſe admonition, when our Chur<g ref="char:EOLhyphen"/>ches, with other buildings, are laid in heaps, to look after our Religion, &amp; to prevent the ruine, which therein alſo doth threaten us, by beginning our repentance in thoſe aſhes.</p>
+            <p>I ſhall be clear and plain. I deſire to be faithful to my Coun<g ref="char:EOLhyphen"/>try, to my King, and to my God
+<pb n="7" facs="tcp:42870:4"/>I hope, though I know not how I ſhall approve my ſelf in the de<g ref="char:EOLhyphen"/>livery. <hi>In magnis, pejus eſt illud, non voluiſſe, quam quomodo facias, non intelligere.</hi> We are at this time involved in Warrs abroad with our neighbours, and we are incompaſſed, as our Iſland is, with a Sea of inteſtine dangers amidſt our ſelves in the diviſions of our people. There is the ſubtilty of the <hi>Jeſuite,</hi> with thoſe many, too much to be feared advantages of that party; and there is on the o<g ref="char:EOLhyphen"/>ther ſide, the wildneſs of the <hi>Se<g ref="char:EOLhyphen"/>ctary,</hi> with their multitudes, and high exaſperations. Both theſe are, as it were, the upper and ne<g ref="char:EOLhyphen"/>ther jaw of deſtruction opening her mouth upon us: If we do not finde out a way to reconcile
+<pb n="8" facs="tcp:42870:5"/>the ſober <hi>Proteſtant,</hi> that we may have their combined ſtrength to oppoſe theſe extreams in caſe of inundation, I know not how ſoon theſe jaws may ſhut upon us, and overwhelm us in our confuſion.</p>
+            <p>The Motion therefore I have to make is for moderation in the buſineſs of Religion, firſt ſeri<g ref="char:EOLhyphen"/>ouſly debated, and then prudent<g ref="char:EOLhyphen"/>ly concluded, in an Act of Ac<g ref="char:EOLhyphen"/>commodation between the <hi>Con<g ref="char:EOLhyphen"/>formiſt</hi> and <hi>Nonconformiſt</hi> that are ſober in their principles, and In<g ref="char:EOLhyphen"/>dulgence toward others who are ſo in their lives: So far I mean as ever it will ſtand with the Rules, both of Civil and Religious Pru<g ref="char:EOLhyphen"/>dence, and the good Order of the Land.</p>
+            <p>I am ſenſible of what a pauſe
+<pb n="9" facs="tcp:42870:5"/>there will be on ſome mens ſpi<g ref="char:EOLhyphen"/>rits at this Motion. I am with <hi>Coeſar</hi> at the flood of <hi>Rubicon,</hi> and the Dye is caſt.</p>
+            <p>I will confeſs ingenuouſly, I know not <hi>how</hi> it fares with others, but there is a company of people about us in the Country of diffe<g ref="char:EOLhyphen"/>rent perſwaſions, who meet ſome<g ref="char:EOLhyphen"/>times many hundreds together, that our Juſtices have been in perplexity what to do. The moſt of them for ought I perceive are certainly inoffenſive perſons; and they have really no more againſt them than <hi>Pliny</hi> againſt the <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> of old when he ſent to <hi>Trajan</hi> about them, that is, only that they meet, and preach, and pray together. And if that excel<g ref="char:EOLhyphen"/>lent Prince was aſhamed after this
+<pb n="10" facs="tcp:42870:6"/>report he gave him of them in his Epiſtle, to have theſe good men ſought out any more unto puniſh<g ref="char:EOLhyphen"/>ment, I cannot but favour thoſe inclinations, which are averſe from the like inquiſition. I pro<g ref="char:EOLhyphen"/>feſs to God it is ſuch an ungentle<g ref="char:EOLhyphen"/>man-like thing methinks to trou<g ref="char:EOLhyphen"/>ble ones Neighbors, that I ſhould be glad to rid modeſt men of that work. It were better all theſe Acts ſuffered at once a due and Chriſtian Regulation, than we ſhould be ſtill put upon this unto<g ref="char:EOLhyphen"/>ward dragging innocent folks thus to priſon, for doing nothing in earneſt but endeavouring to ſave their ſouls. In the name of God take you your <hi>Pſalter,</hi> and let them ſay their prayers as they will.</p>
+            <pb n="11" facs="tcp:42870:6"/>
+            <p>I have made my Propoſition, I ſhall now offer you my Argu<g ref="char:EOLhyphen"/>ments. <hi>Viſa eſt enim mihi</hi> (with the forementioned Author) <hi>res digna conſultatione, maximè propter peri<g ref="char:EOLhyphen"/>clitantium numerum; Multi enim omnis aetatis, omnis ordinis, utriuſque ſexus etiam vocantur in periculum, &amp; vocabuntur. Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> enim Civita<g ref="char:EOLhyphen"/>tes tantùm, ſed viros etiam atque agros ſuperſtitionis iſtius contagi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pervagata eſt, quae videtur ſiſti, &amp; corrigi poſſe.</hi>
+            </p>
+            <p>My Arguments may be redu<g ref="char:EOLhyphen"/>ced to theſe heads. The courſe you have taken in your former Acts, will not reach the End you have deſigned in them. The way I propoſe in this Act is liker to do it. The preſent conſideration and exigency of affairs requires
+<pb n="12" facs="tcp:42870:7"/>the ſame of us. One more, The preſent juncture of affairs, and conſcience toward our Brethren requires it. Theſe heads I will wrap together in my diſcourſe, and leave the Analyſis to your acuter Judgments.</p>
+            <p>If it were not a time to ſpeak now, we might lay our hands up<g ref="char:EOLhyphen"/>on our lips, and our mouthes in the duſt. <hi>I ſaid, Dayes ſhould ſpeak, and years teach wiſdom. But there is a ſpirit in man. Great men are not always wiſe, neither do the Aged alwayes underſtand Judge<g ref="char:EOLhyphen"/>ment.</hi> I am ſorry to underſtand ſuch a reverend ſilence to have been on the ſpirits of both <hi>Houſes</hi> at the preſent prevailing Coun<g ref="char:EOLhyphen"/>ſels of ſome great Perſons, which if I may ſpeak it with lowlineſs
+<pb n="13" facs="tcp:42870:7"/>to them, as with zeal unto God and my Prince, are not good at this ſeaſon, nor will anſwer their entendments. I wonder really in whoſe Shops they have bought their Spectacles (not of <hi>Menante</hi> I believe or <hi>Tacitus</hi>) that they can ſee this great thing <hi>Unity</hi> (of folks ſpirits) in <hi>Uniformity,</hi> and the eſta<g ref="char:EOLhyphen"/>bliſhment of old Foundations in new Impoſitions.</p>
+            <p>It is a principle of the ſerious tender Chriſtian, which he layes as a Rule to himſelf for practice, That he will not do any thing for fear, which he would not out of conſcience; And it is a deadly temptation againſt preſent Injun<g ref="char:EOLhyphen"/>ctions, that they have a penalty annexed to them. For beſides that the ſenſe of the unreaſon<g ref="char:EOLhyphen"/>ableneſs
+<pb n="14" facs="tcp:42870:8"/>and cruelty of ſuch Acts are effectual wires upon the affe<g ref="char:EOLhyphen"/>ctious, There is a ſpirit in man, and reſolution of integrity, <hi>Not to do evil that good may come of it,</hi> as foreſtalls the mind with a ſteel<g ref="char:EOLhyphen"/>ing againſt it, inſtead of ſubmiſ<g ref="char:EOLhyphen"/>ſion. If therefore in lieu of pro<g ref="char:EOLhyphen"/>poſing ſuch a piece of Baniſh<g ref="char:EOLhyphen"/>ment to fright the <hi>Non-conformiſts</hi> into the late Oath, enjoyned in the Act at <hi>Oxford,</hi> there had been offered a Liberty of the Miniſtry on that condition, without any penalty, the Act had been per<g ref="char:EOLhyphen"/>haps to purpoſe. Conſcience up<g ref="char:EOLhyphen"/>on Conſcience would do ſome<g ref="char:EOLhyphen"/>thing, when Force upon Conſci<g ref="char:EOLhyphen"/>ence will do nothing.</p>
+            <p>Have we never read the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Story, or heard at leaſt of
+<pb n="15" facs="tcp:42870:8"/>the ten Perſecutions, how the Church grew in thoſe times, and what was the Seed of it? I will tell you a way that a Politick Prince took in ill doing, that you may take in doing better: The great <hi>Julian,</hi> that wiſe Apoſtate and curſed brave man, when he ſaw that all the cruelties of pre<g ref="char:EOLhyphen"/>deceſſors did but encreaſe the vigour and life of Chriſtianity, <hi>The more they afflicted them, the more they multiplied and grew, and they were grieved becauſe of the Children of Iſrael;</hi> He took this courſe, he would not let any Chriſtian have Dignity or State-preferment, no not ſo much as to be one of his Souldiers, unleſs they came over to his Religion; they might have their liberty to
+<pb n="16" facs="tcp:42870:9"/>uſe their Conſciences to them<g ref="char:EOLhyphen"/>ſelves without perſecution, but they ſhould have none of his Fa<g ref="char:EOLhyphen"/>vour or Countenance. By this means he did ſo ſtarve any brave attempt of Chriſtian Sufferings, and kept them ſo low and out of heart in their Profeſſion, that it is judged he made more waſte upon Chriſtianity in a few years, than all the Sword, Fire and Torments could before in two or three Ages. Lo here a line of Chalk, after which your Timber muſt be cut that goes to the building the Eccleſiaſtical State in this Nation. If there be any can cut it better by aim of his own head, I am miſtaken.</p>
+            <q>
+               <l>Vis Concilii expers, mole ruit ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <pb n="17" facs="tcp:42870:9"/>
+               <l>Vim temperatam, Dii provehunt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> majus.</l>
+            </q>
+            <p>There are but two wayes, re<g ref="char:EOLhyphen"/>ſolve upon it. In the Kingdom of <hi>Japan</hi> I heard lately there was ſome Jeſuites had crept in and planted the Chriſtian Religion. Their King hearing this, ſends a preſent <hi>terrible</hi> Perſecution, what<g ref="char:EOLhyphen"/>ſoever man is found <hi>Chriſtian,</hi> they execute him preſently: This not ſerving the turn, they do not execute the man only, but all the houſe where he was found to be harboured: This not rooting them quite out neither, the King commands that both that houſe and the next two houſes on both ſides of it, ſhould be all put to ex<g ref="char:EOLhyphen"/>ecution: The terrible dread here<g ref="char:EOLhyphen"/>of ſeizing upon all, there is not a
+<pb n="18" facs="tcp:42870:10"/>man can eſcape the diſcovery, and the Sect is immediately ex<g ref="char:EOLhyphen"/>tirpate. Could your hearts now endure to do this? or could your hands ſerve you? Lay that right<g ref="char:EOLhyphen"/>hand on your breaſts, weigh what I ſay; You muſt either come to this, if you ſee to the end, or you muſt come to an Accommoda<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And what are thoſe things I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pray, you would have of them, or deſtroy them? It is not the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dignity of the Biſhops, their Lordſhips and Revenues; It is not their Cathedrals, Organs, and their Divine Service in what ſtate and magnificence they pleaſe; I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not Comman-Prayer, no no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any Ceremony of the Church whatſoever for all its ſignificancy
+<pb n="19" facs="tcp:42870:10"/>if it be but a circumſtance of wor<g ref="char:EOLhyphen"/>ſhip and no more, that could hin<g ref="char:EOLhyphen"/>der moſt of the judicious and ſo<g ref="char:EOLhyphen"/>ber <hi>Non-conformiſts</hi> to come over to you; but it is theſe Declara<g ref="char:EOLhyphen"/>tions, Subſcriptions, and Oaths which you impoſe on them in your Acts, as for which I will ſhew you they are one of the worſt ways that could be deviſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take or hold any. I will con<g ref="char:EOLhyphen"/>vince you. There is nothing un<g ref="char:EOLhyphen"/>der the Sun makes ſuch a bruit and ſtir in the hearts of People <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s theſe Declarations and Oaths, when it is no leſs than the Con<g ref="char:EOLhyphen"/>cience of a Lye, before the face of God and men, in a caſe too of Confeſſion, and the fear of Per<g ref="char:EOLhyphen"/>jury with it, that makes <hi>them</hi> leave their Livings and Miniſtry, rather
+<pb n="20" facs="tcp:42870:11"/>than keep them on ſuch condi<g ref="char:EOLhyphen"/>tions: and yet when all is done, be they taken or be they not ta<g ref="char:EOLhyphen"/>ken, it ſignifies nothing. I will make this appear, And that not onely becauſe there is no hole whereout a man can creep that has taken a former Oath, but he can get out of the ſame, or find another like it, in any new Oath you put upon him: but becauſe there is nothing that is a man's duty, or unlawful, before he hath taken the Oath, but it remains a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it was, after he hath taken it; and he will be obliged neither more nor leſs, (I ſpeak as to the thing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not degree) whether he take i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or not take it. Let a man be con<g ref="char:EOLhyphen"/>vinced in his conſcience that <hi>E<g ref="char:EOLhyphen"/>piſcopacy</hi> is Antichriſtian, and tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="21" facs="tcp:42870:11"/>it is much for the Glory of God, and his Duty, to extirpate it root and branch, let him take a thou<g ref="char:EOLhyphen"/>ſand Oaths, yet ſo long as he re<g ref="char:EOLhyphen"/>tains his Principles, and he ac<g ref="char:EOLhyphen"/>counts his Conſcience ſtands bound by a former Obligation, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he latter Obligation can hold him nothing. What is the Co<g ref="char:EOLhyphen"/>venant to an Epiſcopal judgment that hath taken it? and what will be the late new Oath to a contra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y judgment? What, but a few new Withs on <hi>Sampſon</hi>'s hands, that brake like Tow, when the Philiſtine comes upon him?</p>
+            <p>Again, there is another thing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon this, that is a dreadful thing, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that is, When a man hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſned the reins of his Conſci<g ref="char:EOLhyphen"/>ence a little too ſlack, in ſwallow<g ref="char:EOLhyphen"/>ing
+<pb n="22" facs="tcp:42870:12"/>a forced Oath, there is no<g ref="char:EOLhyphen"/>thing ſo like to imbitter his ſou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as this, againſt thoſe that impoſe it: Like a Lion in a chain, which not only holds no longer than he can break it, but Wo be to the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he meets next, when it is broken.</p>
+            <p>A certain plain honeſt Neigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bour of mine, coming to Church conſtantly as others did, it cam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to his turn to be choſen Church<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warden; He goes to the Court a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long with others; when he come there, they tender him the <hi>Churc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wardens Oath;</hi> he knowing n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well what to make of it, nor ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to avoid it, takes it as the reſt do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when he comes home, the Oa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lies in his ſtomack, and he can fin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no reſt until he leaves both h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church wardenſhip, Church a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:42870:12"/>all, and goes to the <hi>Anabaptiſts,</hi> and never ſince came there more. Do not think thoſe perſons that take this Oath, do love you or the Oath ever the better for it. I will appeal to the boſom of an honeſt<g ref="char:EOLhyphen"/>hearted perſon, who ſtands at as great an Elongation from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing <hi>Hypocrite,</hi> as the moſt of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en alive I am perſwaded, what<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever elſe he be, whether his be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng caught into that Oath once, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was, makes him love the Co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enant, the takers and impoſers, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e dearer ſince, yea or nay? I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould to God there had never <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath, beſides the Aſſertory Oath, which is for the end of all ſtrife, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een known amongſt men; for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is counter-ſwearing, the Cove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, and the new Oath, and the
+<pb n="24" facs="tcp:42870:13"/>like, doth make ſuch debauchery work amongſt honeſt minds, that we ſhall rue the time that eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were born into the World.</p>
+            <p>It is not long ſince when many a worthy Gentleman of the Par<g ref="char:EOLhyphen"/>liament have bitterly complaine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the injury of that late Cove<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nant and Engagements forced o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, who for their Conſcience ſake would hazard their Eſtate rather than take them: And ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall theſe conſciencious perſon then, as Chriſtians, be content t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have oppoſit Oaths and Subſcrip<g ref="char:EOLhyphen"/>tions new coined in our Acts, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impoſed upon others? <hi>Therefo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> art thou inexcuſable, O man, w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doeſt the ſame things,</hi> which tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haſt condemned? You may b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eaſily ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to find <hi>Daniel</hi> a Tran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>greſſour
+<pb n="25" facs="tcp:42870:13"/>if the great Ones will contrive a Law on purpoſe; and that too in the matter of his <hi>God,</hi> when otherwiſe, there is nothing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be found but innocency in him.</p>
+            <p>Do ye forget, O ye Right Re<g ref="char:EOLhyphen"/>verend! how the Oath of <hi>Et <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aetera</hi> made more wrinkles in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he brows of men, than is in that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haracter it ſelf? It coſt <hi>Philip <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Valois</hi> dear, that he made our <hi>Edward</hi> the Third ſwear him fealty. Indeed an Oath in civil <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings that is taken with a good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill, is of moment, but an Oath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon conſtraint we abhor. <hi>Ruit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>manum genus per Veſtitum.</hi> To <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommand a thing wherein be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re we were left free, is enough <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whet our humane nature un<g ref="char:EOLhyphen"/>to
+<pb n="26" facs="tcp:42870:14"/>oppoſition. To prohibit it, wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make it coveted, and we can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have no deſires for that which is eaſie of acceſs. If theſe few ſheets which I write do get, and may come with an <hi>Imprimatur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> out of the Preſs, they will hard<g ref="char:EOLhyphen"/>ly be read; but if they be ſeized on as dangerous, they will be ſought. If many of the ejected Miniſters who are flockt to now when they venture to preach had liberty to ſay on, till they had wearied themſelves and Au<g ref="char:EOLhyphen"/>ditors out, we ſhould ſee how the rouling Snow-balls would melt, and, excepting a few o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the eminent of them, their Con<g ref="char:EOLhyphen"/>gregations quickly would b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thin enough. If any of ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Epiſcopal</hi> men would be follow<g ref="char:EOLhyphen"/>ed,
+<pb n="27" facs="tcp:42870:14"/>let them get thoſe looſe. It is true, we are indeed mad alrea<g ref="char:EOLhyphen"/>dy in Schiſm and Faction, but it is this Reſtraint, like the fetters of Bedlam, makes us madder.</p>
+            <p>And alas Sirs! if there were only wilfulneſs in it, it were an<g ref="char:EOLhyphen"/>other matter. But it is mens Brains are infected; and after that way you call Hereſie, they worſhip the God of their Fa<g ref="char:EOLhyphen"/>thers. Their judgments, their conſciences and hearts are con<g ref="char:EOLhyphen"/>vinced and engaged. I remem<g ref="char:EOLhyphen"/>ber in <hi>Sfetigrade</hi> a Town of <hi>Epi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us,</hi> in <hi>Scanderbeg's</hi> time, which was ſcituate ſtrongly on a rock, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in which he placed much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſt; when the <hi>Turks</hi> came into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Country and beſieged it, a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertain Villain who had com<g ref="char:EOLhyphen"/>pacted
+<pb n="28" facs="tcp:42870:15"/>Treaſon, throws in a dead Dogg into the Common-Well, which one was all the City had. The Souldiers came in the mor<g ref="char:EOLhyphen"/>ning for Water, and finde the Carrion; upon this ſight there is not one of them will drink one drop: Their Captain comes and beſeeches them; He takes of the Water and drinks firſt himſelf; but do all he could by threats and entreaties, nothing would ſerve, but through a <hi>more</hi> than <hi>Jewiſh</hi> Superſtition, that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was polluted to <hi>Chriſtians,</hi> the Town muſt be delivered up and all loſt, rather than any of them can be got to do it. The re<g ref="char:EOLhyphen"/>membrance of this Story make<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me pitty the imagination of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Sectary,</hi> and reflect on my ow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="29" facs="tcp:42870:15"/>ſpirit. I do verily hope in the Lord, that there is nothing in theſe fears &amp; dreadful abodings of many good mens hearts, a<g ref="char:EOLhyphen"/>bout the Diſcipline and Way of Worſhip in our Church, but a Conceit. The Lord knows, I do not know, but this I am ſure, it is not theſe Laws and Penal<g ref="char:EOLhyphen"/>ties from without, have any ten<g ref="char:EOLhyphen"/>dency to the cure of them. Can you remember when you were Children, and had heard ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale of Sprights and Ghoſts over<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, and then waking about <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>welve, how you have lain ſweat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng with your fears at ſomthing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou knew not what? There are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s certainly ſuch impreſſions of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>read and ſuperſtition on many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens conſciences, no leſs ſtrong,
+<pb n="30" facs="tcp:42870:16"/>but more laſting and waking, that are as irreſiſtable and hard to be helpt. And you may as well expect the moſt fearfull Child ſhould go and abide in the dark by it ſelf, as that ſuch ſhould do thoſe things that are enjoyned, untill theſe imagina<g ref="char:EOLhyphen"/>tions get off. It is <hi>Time</hi> and <hi>Li<g ref="char:EOLhyphen"/>berty</hi> and <hi>Cuſtome</hi> muſt prevail with theſe, as the <hi>Candle,</hi> and <hi>Day</hi> and <hi>growing to be men</hi> will with the other.</p>
+            <p>It is the common opinion of our <hi>Proteſtants</hi> that the Pope is Antichriſt and the Beaſt in the <hi>Revelations,</hi> whereof ſuch terri<g ref="char:EOLhyphen"/>ble things are ſpoken. For my own part I know not that the Pope is that <hi>Beaſt</hi> any more tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Wat Tyler</hi> or <hi>Jack Cade</hi> was; Ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="31" facs="tcp:42870:16"/>when I ſee our Divines ſo ordi<g ref="char:EOLhyphen"/>narily ſay and believe ſo, it hath begot in me ſuch apprehenſions, that I think I durſt not take up<g ref="char:EOLhyphen"/>on me the profeſſion of Popery and the practice, which I muſt accordingly fancy to be the <hi>mark</hi> in the <hi>forehead</hi> and in the <hi>right<g ref="char:EOLhyphen"/>hand,</hi> in the Text, out of that fear only, if there were nothing to offend me in their tenents elſe, that it is poſſible it may be ſo. There are many ſerious men living and dead, that have joyn<g ref="char:EOLhyphen"/>ed <hi>Prelacy</hi> and <hi>Popery</hi> together in the ſame rank, and if there be a dread upon the hearts of many that fear God in ſincerity, leſt this be Antichriſtian and the Beaſt, as well as that, and Con<g ref="char:EOLhyphen"/>formity to each, the character of
+<pb n="32" facs="tcp:42870:17"/>either, who can help ſuch ſick thoughts? and how ſhall Acts and Puniſhments do any thing here, when the rankling of the wound is within and hid from any? unleſs you could tender them ſomething more dreadfull than that <hi>fire and brimſtone in the preſence of the Lamb, wherein that man and woman ſhall be tormented for ever and ever, and have no reſt day nor night, who worſhip the Beaſt and his Image, and whoſo<g ref="char:EOLhyphen"/>ver receiveth the mark of his name,</hi> you can do nothing at all this way. Lo here what you are to do if you go on thus.</p>
+            <p>I tell you, what perhaps you may have thought too mean for your notice; You will not by Violence under preſent circum<g ref="char:EOLhyphen"/>ſtances,
+<pb n="33" facs="tcp:42870:17"/>bring People to Uni<g ref="char:EOLhyphen"/>formity. The great thing that keeps theſe <hi>Fanaticks</hi> from the Church and Common-Prayer, lies in ſuch private odd impreſ<g ref="char:EOLhyphen"/>ſions on their thick beliefs and dark minds. I tell it you, and it were well if none of the moſt ſe<g ref="char:EOLhyphen"/>rious and learned are not touch<g ref="char:EOLhyphen"/>ed after a ſoberer faſhion, with the ſame malady. Find out a way now to root out ſuch principles, ſuch fearful conceits, and ſuper<g ref="char:EOLhyphen"/>ſtitious jealouſies of you; To meddle with their perſons is but to torment the body, not heal their conceptions. You muſt take another courſe than quite, that you may do this. For what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that, which can make theſe men with any appearance of
+<pb n="34" facs="tcp:42870:18"/>Truth, think our Governmen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Antichriſtian, unleſs it be the perſecuting them by your Acts which they lay all upon the <hi>Pre<g ref="char:EOLhyphen"/>late,</hi> and look upon it as the ſpi<g ref="char:EOLhyphen"/>rit of Antichriſt, and our Church as <hi>Babylon,</hi> oppoſing the Powe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Religion? That you perſe<g ref="char:EOLhyphen"/>cute is Faction, and the factiou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirit; but they take that Spir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be the Power and Life o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtianity. The natural way it follows; to convince them t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the contrary, is, a Ceſſation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe Acts (that when there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no rage or perſecuting, the may believe there is no Bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nor Antichriſt;) a conjunctio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the ſober of them (that the may ſee you advance, and n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hate true Piety;) and overco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing
+<pb n="35" facs="tcp:42870:18"/>the reſt in their weakneſs, with forbearance, long-ſuffering and gentleneſs.</p>
+            <p>There are none ignorant of one piece of advice that was gi<g ref="char:EOLhyphen"/>ven by an honourable Lawyer among the <hi>Jews,</hi> where the holy Apoſtles, thoſe Fiſhermen-Prea<g ref="char:EOLhyphen"/>chers diſturbed the World. <hi>There was one</hi> Theudus <hi>roſe up and boaſted himſelf</hi> (ſaith he) <hi>and one</hi> Judas, <hi>and theſe came to nothing: wherefore I ſay to you, Refrain from theſe men, and let them alone; for if this counſel or work be of men, it will come to nought,</hi> as o<g ref="char:EOLhyphen"/>thers did: <hi>but if it be of God, ye cannot overthro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, leſt happily ye be found even to fight againſt God.</hi> I wiſh to the Lord, the great Miniſters of our State would be
+<pb n="36" facs="tcp:42870:19"/>content to be no wiſer men than <hi>Gamaliel:</hi> If theſe Sects and Se<g ref="char:EOLhyphen"/>ctaries in their <hi>union</hi> againſt Pre<g ref="char:EOLhyphen"/>lacy, how contemptible ſoever in their <hi>diſperſion,</hi> are indeed of God, or a Counſel of his, then ſhall not Prelacy ſtand before them: But if they be all nothing but the imaginations of divided mortals, without the power of Religion as their center, Then <hi>refrain from theſe men, and let them alone,</hi> (according to the ad<g ref="char:EOLhyphen"/>vice of that time) and you ſhall ſee how much more eaſily they will break all to pieces of them<g ref="char:EOLhyphen"/>ſelves, than by your keeping a ſtir with them.</p>
+            <p>Let me offer you one preſi<g ref="char:EOLhyphen"/>dent to your conviction. When <hi>Veſpatian</hi> and <hi>Titus</hi> came to the
+<pb n="37" facs="tcp:42870:19"/>laſt Deſtruction of <hi>Jeruſalem,</hi> there was three factions of the Seditious, called the <hi>Zealous;</hi> the one held the City, the other two divided the Temple. At the Roman Army drawing up be<g ref="char:EOLhyphen"/>fore the Walls, all theſe factions agree unanimouſly, &amp; withſtood them with equal courage and bravery. The General hereupon takes this advice, he withdraws his Army from their Territories for a ſeaſon, leaving them to themſelves purpoſely; They pre<g ref="char:EOLhyphen"/>ſently upon his removal, fall to<g ref="char:EOLhyphen"/>gether into their former <hi>diſcords,</hi> till they had almoſt waſted and ruin'd one another; and then comes he with his Army back, and after a cruel ſiege, takes the City. There are more than three
+<pb n="38" facs="tcp:42870:20"/>Factions among us, who are zea<g ref="char:EOLhyphen"/>louſly united againſt Prelacy; If you could find a way to divide them and break them, you muſt withdraw theſe Acts againſt them. It is your Laws combine their intereſt, that otherwiſe was divided. A ſtrange piece of Po<g ref="char:EOLhyphen"/>licy that propoſes ſafety to Epiſ<g ref="char:EOLhyphen"/>copacy in the union of the Ad<g ref="char:EOLhyphen"/>verſary, and Peace to the Nation in their higheſt exaſperations.</p>
+            <p>A little before Arch-Biſhop <hi>Lauds</hi> time the <hi>Puritans</hi> had got a faſhion of wearing their hair ſo ſhort, as above their ears. They placed matter of Conſcience in it, and there was few but were careful obſervers of it. It plea<g ref="char:EOLhyphen"/>ſed God that Dr. <hi>Laud</hi> took a humour to approve ſhort hair
+<pb n="39" facs="tcp:42870:20"/>for the Miniſtry, which he requi<g ref="char:EOLhyphen"/>ring more than ordinary ſtrictly as Canonical, This preſently has a contrary effect on our zealous Brethren, who plead for their li<g ref="char:EOLhyphen"/>berty by their practice, and none of late were ſeen to wear their hair more long than thoſe who were for a Gathered-People. If I know any thing of the ſpirits of men, it is Rarity and Difficul<g ref="char:EOLhyphen"/>ty that whets the appetite, and it is Satiety and Liberty aſſwageth them. And if ſome ſuch way as this, could it be hit upon did not prevail more toward Uniformi<g ref="char:EOLhyphen"/>ty, than the flat ſeverity of direct Injunctions for it, I will ſhut up my Table-Books, and take no more reckoning of Experience.</p>
+            <p>It may be there are ſome pleaſe
+<pb n="40" facs="tcp:42870:21"/>themſelves in the thought, that the new <hi>Oxford</hi> Oath hath divi<g ref="char:EOLhyphen"/>ded the <hi>Non-conformiſts,</hi> ſeeing part of them do take it, and par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do not. But what is the diviſion of men, into ſome taking the Oath, and ſome not taking it any more than ſome of the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Presbyterians,</hi> ſome <hi>Anabaptiſts</hi> ſo long as they retain the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart and principles as to thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> common concerns? While thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>combined</hi> Intereſt is all one, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dividing them in their <hi>ſingle</hi> In<g ref="char:EOLhyphen"/>tereſts, and little angers, is bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> multiplying parties againſt you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and playing with their diſtur<g ref="char:EOLhyphen"/>bance.</p>
+            <p>I know ſome Politicks ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> direct you, that when there is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> growing Party or Faction unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="41" facs="tcp:42870:21"/>any State, to keep a ſevere hand <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver them for their ſuppreſſion: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut this muſt be underſtood be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore thoſe parties be grown, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou be ſure that they are the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſer number. If ſuch Factions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e conſiderable and equall, a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eutral kind of unconcernment <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d indifferency, makes the chief <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agiſtrate <hi>ſtrong,</hi> while he keeps <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s intereſt in <hi>all</hi> of them; where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an eſpouſing of one, doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth bandy the others againſt it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d makes his Horſes to be but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Horſes, and his Chariots <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Chariots. It is not a few <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>conſiderable Miniſters onely, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e engagement of whoſe ſouls <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e againſt theſe late Acts, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere are many worthy Gentle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, and grave Citizens, and
+<pb n="42" facs="tcp:42870:22"/>ſober Perſons, beſides the mul<g ref="char:EOLhyphen"/>titude of multitudes of ſuch tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are mixt with the Sectaries. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wiſh heartily that our Sovereig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord the King could but mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one equal tryal of the gener<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inclination: Suppoſe he ſhoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give Commiſſion to the Sheri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of any County pitched upon i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> differently, granting leave to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people promiſcuouſly to me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> together, and give their Vot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> freely, whether they would hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an Indulgence and Liberty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conſcience or no? Let us hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but fair play for it, and if we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not carry it in the Hearts an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Votes of the good Subject, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will neither <hi>move the wing,</hi> n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>open the mouth,</hi> nor <hi>peep</hi> more <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this buſineſs.</p>
+            <pb n="43" facs="tcp:42870:22"/>
+            <p>It hath pleaſed God at this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon to bring us into that con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition, that an Agreement of all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons, to the ſtrengthening of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur hearts and our hands for his Majeſty, would be ſeaſonable. And were I asked, what means were moſt likely to do this? I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o think verily there is nothing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the cope of Heaven com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arable to ſuch a paſſing a really <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee and ingenuous Act of Grace <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r <hi>Indulgeance in matters of Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gion;</hi> The King would ſee, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Nation would feel another <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit running in their Blood, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d what a difference there is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etween a Man whoſe heart is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld at the thoughts that when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath fought for his King, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaten his Enemies, he muſt
+<pb n="44" facs="tcp:42870:23"/>come home (as it were) again to his bonds; and of his, whoſe ſpirit is fluſh with aſſurance that after Victory abroad, he ſhall return to the enjoyment of that thing that is dearer to him than his Life, <hi>the Liberty of his Con<g ref="char:EOLhyphen"/>ſcience.</hi>
+            </p>
+            <p>O Sirs! Is there never a drop of <hi>Engliſh Blood</hi> in the Veins of the <hi>Sectary?</hi> How ſhall that thing you call <hi>Obſtinacy</hi> and <hi>Fa<g ref="char:EOLhyphen"/>ction,</hi> when they ſuffer the vio<g ref="char:EOLhyphen"/>lence of your Laws, and are un<g ref="char:EOLhyphen"/>moved, appear to be the moſt undaunted Courage of the Eng<g ref="char:EOLhyphen"/>liſh Spirit, when it ſhall ſhew it ſelf in the Field? Are there no ſober men amongſt all the <hi>Male<g ref="char:EOLhyphen"/>contents,</hi> whoſe advice, aſſiſtance and prayers would do you no
+<pb n="45" facs="tcp:42870:23"/>harm, to take them with you? It was not the <hi>Cauſe,</hi> but the <hi>Par<g ref="char:EOLhyphen"/>ty,</hi> and this thing, <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience,</hi> that got the better of the King in our late Inſurrections. It was <hi>Laberty of Conſcience</hi> got into the Houſe, and pull'd down the Biſhops; that went with the Parliaments Army and won all. It was Liberty of Conſcience came back and pull'd up the Parliament, and then ſate down and reign'd with <hi>Cromwel.</hi> It is this piece of ſingle policy, the raiſing up ſuch a Principle in baſe and mean fellows, to mate the Bravery and Spirit of the Gentry, ſhall eternallize that Mortal. It was Liberty of Con<g ref="char:EOLhyphen"/>ſcience, when our Religion was at ſtake in thoſe Confuſions, that
+<pb n="46" facs="tcp:42870:24"/>tack't about and reſtored the King. And if his Majeſty wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearken to the counſel of a <hi>mean perſon,</hi> rather than to the perſon of <hi>mean counſel,</hi> let him keep this wild thing, <hi>Liberty of Conſci<g ref="char:EOLhyphen"/>ence,</hi> on his ſide. This Liberty of Conſcience, let me ſay again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is that mad Earl of <hi>Warwick</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the time of <hi>Edward</hi> the fourt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <hi>Henry</hi> the ſixt, call'd <hi>Make King,</hi> that the gain or loſs o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him on either ſide, was the gai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or loſs of the <hi>Kingdom</hi> with him<g ref="char:punc">▪</g>
+            </p>
+            <p>It may be there is ſome grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prelate or eminent Stateſman a the Helm are too hard for you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inclinations, which ſteer &amp; by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them unſeen, into other Coun<g ref="char:EOLhyphen"/>ſels; I will therefore humb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> argue with them. Behold I w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="47" facs="tcp:42870:24"/>be to them in your ſtead; <hi>I am framed alſo out of the clay. Let me <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, I pray you, accept any mans <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſon, neither let me give flatter<g ref="char:EOLhyphen"/>ing titles unto Man: for I know <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot to give flattering titles, in ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oing my Maker might ſoon take <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e away.</hi> Ye have ſaid, We are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e men, we have found out wiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om. I will reprove them. <hi>Great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en are not alwayes wiſe.</hi>
+            </p>
+            <p>Was it, in the firſt place, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lted wiſely, when we reſtored <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſcopacy in this Nation, to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive a company of men as low <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their intereſts as in their con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, unto ſuch vaſt Emolu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents which never were, and are ever like to be again, being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fruits of twenty years toge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er in one, unto which (excep<g ref="char:EOLhyphen"/>ting
+<pb n="48" facs="tcp:42870:25"/>a very few of them) they had no relation in the Earth to challenge the leaſt penny before actual poſſeſſion? How wel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might ſuch perſons have been contented to have entered th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent Revenews &amp; Honours and left the Arrears for publick accounts, or good works? Thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poſſibly was not wiſe (Sirs), no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only for the improvidence, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for that envy and juſt kind o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſdain, that ſo exceſſive Riche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (thrown upon men ſo undeſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vedly) hath raiſed in the ſto<g ref="char:EOLhyphen"/>macks of others (to the Functi<g ref="char:EOLhyphen"/>on it ſelf for the Covetouſneſs o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Perſons) eſpecially of tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whoſe high merits for the Kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and his Cauſe did require ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other gratification, than a lan<g ref="char:EOLhyphen"/>guiſhing
+<pb n="49" facs="tcp:42870:25"/>looking-on, and repi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing at their fortunes. <hi>Great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en are not alwayes wiſe.</hi>
+            </p>
+            <p>Was it, in the next place, wiſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y conſulted (wherein yet, above <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, you would ſeem moſt wiſe) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> making ſuch a ſtir with the Covenant, as hath been done in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur late Impoſitions? It was the Viſdom of the Antient Church, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtead of contention about the <hi>Jewiſh</hi> Ceremonies, to take a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecial care that they might have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n honourable burial, and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y have they bin all huſht with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut trouble for many Ages. Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inks, if the wiſdom of theſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eat and wiſe men, were not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſer than the ancient Wiſdom, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey might, at leaſt for his Maje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es ſake, have dealt according<g ref="char:EOLhyphen"/>ly
+<pb n="50" facs="tcp:42870:26"/>with the Covenant. The might have laid it in a ſtate of ſilence, without light, and with<g ref="char:EOLhyphen"/>out words, evermore to be for<g ref="char:EOLhyphen"/>gotten, and never would it have done them further hurt. But now have they raiſed it twice or thrice up (in a former Subſcrip<g ref="char:EOLhyphen"/>tion &amp; the late Oath) as a dread<g ref="char:EOLhyphen"/>ful Ghoſt out of his Grave, to do what miſchief, or raiſe what troubles for the future I cannot tell, but to little end at preſent for ought I ſee, only to terrifie mens Conſciences, and keep a<g ref="char:EOLhyphen"/>live the memory of it, which were fitter to die, &amp; be thought on no more. <hi>Great men are not alwayes wiſe.</hi>
+            </p>
+            <p>Once more: There was a time when theſe wiſe and great men
+<pb n="51" facs="tcp:42870:26"/>might have compounded for <hi>E<g ref="char:EOLhyphen"/>piſcopacy</hi> with the pious and lear<g ref="char:EOLhyphen"/>ned of her Adverſaries, upon as high advantage and a ſure foun<g ref="char:EOLhyphen"/>dation, for themſelves and the peace of the Nation, as could be well wiſhed or deſired in any reaſon; But they outſtood their market, and ſlipt the opportu<g ref="char:EOLhyphen"/>nity. <hi>Great men are not alwayes wiſe.</hi>
+            </p>
+            <p>They have ſlipt it, yet may we redeem one lock of it; to wit, It is better the Parliament com<g ref="char:EOLhyphen"/>pounded them, than that a for<g ref="char:EOLhyphen"/>eign Enemy, or the <hi>Papiſts</hi> ſhould do it. We know when it was our <hi>Ridley</hi> &amp; <hi>Hooper</hi> were agreed. I draw up this: If the greateſt <hi>Seers</hi> may fail in their Politicks and erre in Viſion, in
+<pb n="50" facs="tcp:42870:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:42870:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="52" facs="tcp:42870:28"/>ſome things, when there is no man doubts of their integrity otherwiſe than of their ability, why may they not poſſibly have been out here, in their adviſing us to theſe Acts about Religi<g ref="char:EOLhyphen"/>on?</p>
+            <p>Come then, and let us ſet the Sun and Wind to ſtrive again for maſtery. You ſee what the cold boyſterous blaſts of theſe late Acts have done on the Travel<g ref="char:EOLhyphen"/>lour, that they have made the moſt but hold their Cloaks the faſter about them. Now let us have ſome gentle rayes and warm beams from his gracious Majeſty and his loving Parlia<g ref="char:EOLhyphen"/>ment, in an Act of Indulgence and Concord that ſhal pleaſe his People, and you ſhall ſee them
+<pb n="53" facs="tcp:42870:28"/>all, not only to throw down their Cloaks and Eſtates, but their Hearts and Lives at his feet, ſay<g ref="char:EOLhyphen"/>ing with <hi>Amaſa</hi> in holy Story, <hi>Thine are we, O David, and on thy ſide, thou Son of Jeſſe; Peace, peace be unto him, and peace to thoſe that help him.</hi>
+            </p>
+            <p>I will here turn, and look back on the way I have come. You have my Motion and my Argu<g ref="char:EOLhyphen"/>ments under the three firſt <hi>heads</hi> mainly, at firſt named; I muſt explain my ſelf a little upon the <hi>Motion,</hi> and offer the other. <hi>Namquid facimus, id niſi utile ſit, ſtultae omnis atque inanis inde eſt gloria.</hi>
+            </p>
+            <p>To eke out then this Propo<g ref="char:EOLhyphen"/>ſition. I will take <hi>breath,</hi> and not be <hi>afraid to ſhew you alſo my
+<pb n="54" facs="tcp:42870:29"/>Opinion.</hi> There are the learned and ſober Godly amongſt us, which are to be compounded with as your Brethren: And there are the Zealous and Giddy in leſſer Fractions, which are to be born withal in mercy, &amp; won over with patience &amp; gentleneſs.</p>
+            <p>For the former. There was a Declaration of his Majeſties a<g ref="char:EOLhyphen"/>bout theſe Eccleſiaſtical Affairs before <hi>black Bartholomew,</hi> where<g ref="char:EOLhyphen"/>in a compoſition is drawn up to our hands, well and wiſely: and there are Laws in our Statute-Books againſt <hi>Pluralities.</hi> If that Declaration were paſſed into a Law, with as little canvaſing and alteration as may be, though with no leſs than is neceſſary to calm the withholding party, we
+<pb n="55" facs="tcp:42870:29"/>need no more to do our buſi<g ref="char:EOLhyphen"/>neſs. And if thoſe Statutes were refreſht into a new Act, that no mortal breathing ſhould hold more than one Living and one Dignity; that is, one Cure of Souls (upon which alſo he ſhould ordinarily be reſident) with one Canonſhip, Prebend, or the like, which is a <hi>ſine-Cure</hi> (as a reward of ſpecial merit or favour): then ſhould you not, onely do God right, and render the <hi>Hire</hi> to the <hi>Labourer,</hi> which cryes for juſtice, but you would make an Act of Grace or Accommodation ſig<g ref="char:EOLhyphen"/>nificant, while you put the means into his Majeſties hands to gra<g ref="char:EOLhyphen"/>tifie his <hi>Reſtored,</hi> and make him bountiful with their leavings. I know who will be ready to <hi>ſtamp</hi>
+               <pb n="56" facs="tcp:42870:30"/>here, and fling dirt in the Air. This is a kind of Clergy-Trea<g ref="char:EOLhyphen"/>ſon. But it is no matter, I will leave it upon Record for his Majeſties ſervice, that if there be occaſion or exigence for it, what is prepared may be uſed.</p>
+            <p>For the latter. Let us ſuppoſe a Liberty granted to theſe per<g ref="char:EOLhyphen"/>ſons for their Aſſemblings ac<g ref="char:EOLhyphen"/>cording to their Conſciences, provided by Law, that for ſecu<g ref="char:EOLhyphen"/>rity to the State, and upon ac<g ref="char:EOLhyphen"/>count of that Rule, <hi>Not a No<g ref="char:EOLhyphen"/>vice,</hi> (which modeſty ſhould teach thoſe who are without learning, to hold themſelves to be ſo much longer than others) <hi>leſt being lifted up with pride, he fall into the condemnation of the Devil,</hi> they do not permit any
+<pb n="57" facs="tcp:42870:30"/>to be their Paſtors, or to ſpeak in their Churches, but ſuch as are of gravity and years as is fitting; and that, leſt they ſhould med<g ref="char:EOLhyphen"/>dle about State-matters, their Meeting-places (as they would have them) ſhould be open for any that will to hear them, and implead them if guilty; I hum<g ref="char:EOLhyphen"/>bly conceive, without any policy more, that when the preſent Zeal of this Generation had beat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſelf out a little ſeaſon, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here be none of the heat of the Young man (which runs out in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe perſons unto the itch of reaching, as it doth unto <hi>amo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> and the like in others) to keep alive the ſtrange fire, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaking againſt Government ſually enkindles: Before theſe
+<pb n="58" facs="tcp:42870:31"/>men that are ſo hot upon it unto four or five &amp; twenty ſhall come to have fourty years hairs upon their beards (or thirty five, if they will be content at leaſt but to ſtay ſo long) they will get, it is likely that diſcretion to ſee how contemptible is their ſtuffe in compariſon of the grave ſtudied Miniſter; and being cold more<g ref="char:EOLhyphen"/>over to applauſes by that time, They will be ſo aſhamed and flat to ſuch an inſolence, that as ſoon as ever a few of thoſe that are now living ſhall give up their Churches and Ghoſts together, there ſhall not hardly in a little time be any found more to ſuc<g ref="char:EOLhyphen"/>ceed them.</p>
+            <p>I heard, to ſtrengthen this, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fared ſo with one of their Chur<g ref="char:EOLhyphen"/>ches
+<pb n="59" facs="tcp:42870:31"/>of great reſort in <hi>London,</hi> that was a fierce Revelation-mans, one Mr. <hi>Strange,</hi> who be<g ref="char:EOLhyphen"/>ing taken away by the Mortali<g ref="char:EOLhyphen"/>ty, they having not his Peer left to take his Biſhoprick, diſſolved immediately, and their place knew them no more: Had that perſon, as he was often ſought, chanced to have been taken, and put up in <hi>Newgate,</hi> it is like they would have been provided of a <hi>Subſtitute.</hi> It is not there<g ref="char:EOLhyphen"/>fore your haling theſe men and women to Goal that will diſ<g ref="char:EOLhyphen"/>perſe them; for when you have them in Priſon, they will Con<g ref="char:EOLhyphen"/>venticle there, and the reſt be at the next Meeting: but if you <hi>refrain from theſe men,</hi> and let them alone, (as that grave Gen<g ref="char:EOLhyphen"/>tleman
+<pb n="60" facs="tcp:42870:32"/>before in Scripture ad<g ref="char:EOLhyphen"/>viſed) till a few of the more ſtanch and conſiderable do die, they will come to diſſolution of their own accord.</p>
+            <p>One thing yet I will tell you further, which <hi>you</hi> perhaps think not of. Suppoſe this Freedom in the Worſhip and Service of God according to mens inclina<g ref="char:EOLhyphen"/>tions: Thoſe that are for the <hi>Congregational way</hi> ſhal draw the moſt conſiderate and moderate from the <hi>Sectary;</hi> and thoſe that are the <hi>Presbyterian Preachers</hi> ſhall drain the <hi>Gathered Congre<g ref="char:EOLhyphen"/>gations;</hi> And then the moſt eminent and judicious of the <hi>Presbyterian</hi> coming over to the <hi>Liturgy</hi> upon a little condeſcen<g ref="char:EOLhyphen"/>tion to them in a few of their
+<pb n="61" facs="tcp:42870:32"/>moſt material exceptions, This thing, <hi>Liberty of Prophecy,</hi> which you ſo mortally dread, as the enemy of Conformity, ſhall hap<g ref="char:EOLhyphen"/>pily become one of the moſt po<g ref="char:EOLhyphen"/>litick, apt, and kindlieſt means, that can be thought upon at this ſeaſon to bring up the people to it.</p>
+            <p>There is a block after this, which I foreſee will be laid in the way, and pretended to ener<g ref="char:EOLhyphen"/>vate this diſcourſe. It cannot ſtand with ingenuity for any that plead in general for Indulgence in regard of their own Conſci<g ref="char:EOLhyphen"/>ences to put in any barr againſt others that are conſciencious; and conſequently the door here<g ref="char:EOLhyphen"/>by will be opened for the <hi>Papiſt</hi> to under-ſet and over-run the
+<pb n="62" facs="tcp:42870:33"/>
+               <hi>Proteſtant Religion.</hi> But this is a Cloud that need not be feared by a Wind that blows ſo oppo<g ref="char:EOLhyphen"/>ſite to it. For beſides that the Act moved for, is an Act for Concord and Indulgence in the Reformed Cauſes, and this <hi>Li<g ref="char:EOLhyphen"/>berty of Conſcience</hi> muſt neceſſa<g ref="char:EOLhyphen"/>rily include that of the <hi>Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> aſwel as the <hi>Subject,</hi> which cannot allow of Idolatry, or any thing of that nature by Publick Sanction, when it may conde<g ref="char:EOLhyphen"/>ſcend much in matters of indif<g ref="char:EOLhyphen"/>ferency: The thing we know is to paſs the debate and delibera<g ref="char:EOLhyphen"/>tion of both Houſes, who will provide well enough beyond doubt in that matter. Neither am I much moved if you ſay, that the Arguments I uſe for the
+<pb n="63" facs="tcp:42870:33"/>
+               <hi>Non-conformiſts</hi> may be applied <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>Papiſts;</hi> for though ſome of them indeed may, many of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem may not, nor the main heads of them. Theſe are not like to be reduced this way. The <hi>intereſt of State</hi> conſiſts not with the <hi>Jeſuite,</hi> as the King's <hi>Supre<g ref="char:EOLhyphen"/>macy</hi> does not with the <hi>Pope.</hi> O<g ref="char:EOLhyphen"/>therwiſe, were there no more danger to mens ſouls and lives <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>prevailing Popery</hi> than in <hi>Preſ<g ref="char:EOLhyphen"/>bytery</hi> or the <hi>Sectary,</hi> I am not the man that could find in my heart to perſecute any harmleſs peaceable perſon, for doing his devotions another way than I do.</p>
+            <p>I know there will be this, and twenty things perhaps more ſaid to traduce and choak this Moti<g ref="char:EOLhyphen"/>on:
+<pb n="64" facs="tcp:42870:34"/>But I oppoſe the ſame buckler, to wit, The Motion as it was at firſt ſtated, and the De<g ref="char:EOLhyphen"/>bate of Parliament. There is no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Act of Grace can paſs the two Houſes, but it will prevent the inconveniences, and anſwer for it ſelf againſt Exceptions. A le<g ref="char:EOLhyphen"/>gall ſtated Toleration will not undermine, but uphold Religi<g ref="char:EOLhyphen"/>on; and be no friend, either of Superſtition or Confuſion.</p>
+            <p>To return from this purſuit. It hath been I ſee the policy of late tranſactions, to endeavour to root out thoſe <hi>Principles</hi> from mens minds whereby they have maintained the lawfulneſs of for<g ref="char:EOLhyphen"/>mer Sedition and Rebellion, and hereupon hath the renunciation of the Covenant been ſo preſſed
+<pb n="65" facs="tcp:42870:34"/>in our Oaths and Subſcriptions: But if the Policy of thoſe firſt Wheels that move others, had bin rather to root out the <hi>Cauſes</hi> from us, which make men wil<g ref="char:EOLhyphen"/>ling to entertain ſuch Principles, I do humbly ſuppoſe that Poli<g ref="char:EOLhyphen"/>cy to have been the deeper. The way to eſtabliſh the Kings <hi>Throne</hi> in the <hi>hearts</hi> of his People, and to do it for ever, is this; to make it appear that all that Good (to wit, <hi>ſubſtantial Good</hi>) which they ever expected (or can expect) from a change of the Govern<g ref="char:EOLhyphen"/>ment, or a Commonwealth, may be had from Him (or from a Prince) in the Acts of his Parlia<g ref="char:EOLhyphen"/>ment. This ſaying I will leave upon file as digeſted; and I will adde ſomething (though more
+<pb n="66" facs="tcp:42870:35"/>rawly) hereunto; that thoſe Good things mainly which ſe<g ref="char:EOLhyphen"/>cretly have been and lie on the hearts of the Commons, may be reduced to theſe: An Enfran<g ref="char:EOLhyphen"/>chiſment of Servile Tenures. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commutation of <hi>Tythes</hi> (ſuppoſe by a Law enjoyning every man to buy out his own, and the mo<g ref="char:EOLhyphen"/>ney be laid out in <hi>Glebe.</hi>) A Re<g ref="char:EOLhyphen"/>giſter of Eſtates. A Tenderneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> towards mens Conſciences in matters of Religion.</p>
+            <p>Where there are no hopes from Inovation, no body wil go about to make it. But when a People have all can be had, all that can come to a ſettlement with Judg<g ref="char:EOLhyphen"/>ment and Righteouſneſs by the preſent Government already then will there be no hopes from
+<pb n="67" facs="tcp:42870:35"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>novation. <hi>Ergo,</hi> When thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings are taken into conſidera<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on by the Parliament (or Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aments) and after mature de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate and conſultation, come to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e concluded upon ingenuouſly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſincerely, wiſely and righte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly, which have been on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earts, and in the deſign of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore publick-ſpirited in theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te times rudely and wildly: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en ſhall our Government of Monarchy in this Land (leaving <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e perſons of our ſucceſſive So<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereigns unto Providence and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir chances) be out of danger <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r future Generations.</p>
+            <p>I deſcend to what remains, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at is the laſt head unto which reduced my Arguments.</p>
+            <p>Hitherto then I have ſpoken
+<pb n="68" facs="tcp:42870:36"/>to you as Men, I will ſpeak to you now as Chriſtians and Belie<g ref="char:EOLhyphen"/>vers of the World to come; and if I differ ſomething in my ſtile upon that account, I hope you will bear with it. O you Go<g ref="char:EOLhyphen"/>vernours and Rulers, let me ad<g ref="char:EOLhyphen"/>dreſs you as fellow-mortal-men, who muſt appear before the great Tribunal one day to give an account of your Stewardſhips unto <hi>Jeſus Chriſt</hi> your Prince and Lord, as my ſelf muſt, who am not able ever to ſtand there but by infinite exceeding mercy in the bloud of the Lamb, who was ſlain for the remiſſion of ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſins. I know not any kinder of<g ref="char:EOLhyphen"/>fice can be done you than this in all humility to adviſe you to let none prevent you, but be
+<pb n="69" facs="tcp:42870:36"/>your ſelves the Authors of that Grace and Benignity which is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o abſolutely neceſſary to the Nation.</p>
+            <p>It will make the dignity of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our high places, and the face <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f your lives paſt look more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hearfull to you, when Death <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all bring his Leaden Mace to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>change with your Golden<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itles, if you ſhal have the Teſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ony of your Conſciences, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou have been content to deny <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſelves in this thing, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpleaſe ſome men for the ſake <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Lord, who was ſo mer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full and good to every body, at he exerciſed Indulgence all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s life long, and then died that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might obtain more, for you, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d me, and ſuch as could not
+<pb n="70" facs="tcp:42870:37"/>receive any of him while he wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here.</p>
+            <p>There is a Perſon I hope you would do a kindneſs for with a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your heart, and you have rea<g ref="char:EOLhyphen"/>ſon, it is for your <hi>dear Lord</hi> tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bought you, and there is no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing in the World you can d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am perſwaded that he wil tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo kindly from you at this time as to be pittiful to his Servant who are diſtreſſed about you Acts in point of Conſcience and who the more deſpiſed the are and like unto their Lord the fitter ſubjects they are fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your compaſſion. Neither w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it hurt you in another piece <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tenderneſs towards the Peopl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to prevent Inſurrection, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tifie againſt Invaſion; ſecurin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="71" facs="tcp:42870:37"/>hereby both the Bad from pu<g ref="char:EOLhyphen"/>niſhment, and the Good from danger.</p>
+            <p>It were better certainly for any one mans own part, that there never had been Biſhops, than that he ſhould be one con<g ref="char:EOLhyphen"/>demned hereafter for taking that courſe in eſtabliſhing of them, as thereby to have ſinned without repentance, againſt the ſouls of many whom <hi>Jeſus Chriſt</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not aſhamed to call his Bre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hren, and ſo againſt him, who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be our Judge, and will take whatſoever we do unto them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s if we did it unto Himſelf. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f you had no need of mercy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom God, it were tolerable then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or you to be extream towards others, But if you are ready to
+<pb n="72" facs="tcp:42870:38"/>indulge your ſelves too often in many things that are not allow<g ref="char:EOLhyphen"/>ed by him, when permitted by you: methinks the way to en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gage the Lord unto pardon ſhould be in bearing with them in theſe things which are diſal<g ref="char:EOLhyphen"/>lowed only by you, and permit<g ref="char:EOLhyphen"/>ted by him. If you forgive no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Brethren their treſpaſſes neither will your heavenly Fa<g ref="char:EOLhyphen"/>ther forgive you your treſpaſſes <hi>He ſhall have judgement without mercy, that hath ſhewed no mercy.</hi>
+            </p>
+            <p>Do you know that many o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe things which are impoſed are really againſt mens Conſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ences, and would you indee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have any ſuch <hi>to do</hi> them thoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they be ſo? Do you conſide this, and what it is? If it b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="73" facs="tcp:42870:38"/>better to be drown'd in the Sea with a Milſtone, than to offend <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> of God's little ones, what is it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o offend <hi>multitudes,</hi> that is, ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffend them as to inforce them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſin againſt their Conſciences, which is to wound them and to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uine them? Why Sirs! if one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f theſe men on the ſudden, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>void the penalty, ſhall do what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enjoyned unſatisfiedly, his ſoul when he reflects on it is ſmitten, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd he can hardly again ever re<g ref="char:EOLhyphen"/>over it perhaps all his life. I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rofeſs to you, it is better in this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe really you had taken a Po<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iard and ſtabb'd him to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart, it had been leſs pain, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſtroke of leſſe deadly conſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uence to him. <hi>If you ſin againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Brethren, and wound their weak
+<pb n="70" facs="tcp:42870:39"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="71" facs="tcp:42870:39"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="72" facs="tcp:42870:40"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="73" facs="tcp:42870:40"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="74" facs="tcp:42870:41"/>Conſciences, you ſin againſt Chriſt.</hi> Do you believe the Goſpel, or that there is ſuch a thing as ſin? what then is ſtealing, and drink<g ref="char:EOLhyphen"/>ing, and lying with women, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch damnable untenderneſs as this is, be nothing? Is it a ſin to kill a man, and no ſin to dam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him everlaſtingly? On my con<g ref="char:EOLhyphen"/>ſcience, you would be grieve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all your life if <hi>you</hi> had murdered any man; and ſhall <hi>you</hi> really b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the occaſion of murdering the ſouls of many, and not once con<g ref="char:EOLhyphen"/>ſider <hi>what have we done?</hi> I hop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and am perſwaded that many o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe things at which ſome good men are ſtumbled, are nothing <hi>yet to him that eſteemeth any thing to be unclean, it is unclean.</hi> And what if upon a mans yeelding to
+<pb n="75" facs="tcp:42870:41"/>one thing that is againſt his con<g ref="char:EOLhyphen"/>ſcience, being put upon diſtreſs, he ſhall make ſhipwrack of his preſent Faith, &amp; departing from it now, never be regardful of it more, &amp; ſo become irrefragably damn'd? Is there no pitty and turning of your bowels at the thought to have ſuch a one cry<g ref="char:EOLhyphen"/>ing out eternally upon you, that if it had not been for your Acts, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he had never come into that place of torments?</p>
+            <p>Give me leave then, for anti<g ref="char:EOLhyphen"/>cipation of this cry and guilt, in the behalf of many, of thou<g ref="char:EOLhyphen"/>lands, of many thouſands of in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocent people, men and women <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Land, to beg <hi>Quarter</hi> of you for their Conſciences. They are <hi>not</hi> able to <hi>yeeld</hi> to the things
+<pb n="76" facs="tcp:42870:42"/>you impoſe upon them. <hi>Though they be lawfull or indifferent in themſelves, yet ſo long as they are againſt their conſciences, He that eaveth and doubteth, is damned if he eat. O do not force their ſouls upon damnation.</hi> You may be perhaps of a ſtrong Minde and hardy Conſcience, and others weakneſs and fear of Sin may be but a <hi>Romance</hi> to you. We might inſtance in ſome, who little thought at the Kings Return, of their after-experience, that they ſhould fall down ſlain at Con<g ref="char:EOLhyphen"/>formity, who might expect ſome other fruit from thence, &amp; were not able to reap it. I profeſs to you, the moſt, I believe, are not capable indeed to judge in this matter. You have not been
+<pb n="77" facs="tcp:42870:42"/>wounded <hi>or</hi> lain under thoſe ter<g ref="char:EOLhyphen"/>rors, to know what Tenderneſs in this kind is; yet have <hi>you</hi> ſin<g ref="char:EOLhyphen"/>ned againſt the Lord Almighty, as well as others, and have need of his indulgence.</p>
+            <p>It was the determination of <hi>Mi<g ref="char:EOLhyphen"/>randula,</hi> that no man can make himſelf believe what he will. It is not conſequently the ſeverity of Laws that can do any thing with the Mind, though it may with the Outward-man. Force may make men Hypocrites, not Converts to a Faith which is en<g ref="char:EOLhyphen"/>joyned. Neither is the penalty indeed of our Acts, as it relates to the Miniſter who conforms not to them (which lies mainly in the deprivation of their Miniſtry and their ſerviceableneſs to God
+<pb n="78" facs="tcp:42870:43"/>in their place) ſuch, as is fit to have been promoted on ſome of them, or like to have effect on others.</p>
+            <p>I know not how well thoſe may like of themſelves in their <hi>Sacerdotal Function,</hi> who can be a Biſhop here, and a Dignitary there; a Dean in one Church, a Canon in another, a Preben<g ref="char:EOLhyphen"/>dary in a third; the Rector of ſuch a Pariſh, and Parſon of ſuch; who can ſhovel-up their Preſer<g ref="char:EOLhyphen"/>ments together in heaps, as if the Cure of Souls were indeed no<g ref="char:EOLhyphen"/>thing elſe but the Care of Mo<g ref="char:EOLhyphen"/>ney, or the raiſing of their Fami<g ref="char:EOLhyphen"/>lies: But as for thoſe men that expect none of theſe things, but are intent on their work, their buſineſs &amp; account, which makes
+<pb n="79" facs="tcp:42870:43"/>them groan under the weight, I cannot conceive any temptation ſo ſhrewdly grateful to fleſh and blood as what you have been of<g ref="char:EOLhyphen"/>fering them by your Acts. And will you indeed conſpire with Satan, and with the fleſh of ſin<g ref="char:EOLhyphen"/>ful men, to rob the people, who are innocent and have not offen<g ref="char:EOLhyphen"/>ded, of that ſerious, faithful, pain<g ref="char:EOLhyphen"/>ful Preaching of many of theſe Men, for want of which you know not how many of their ſouls may periſh, and how much ſin may abound, the guilt where<g ref="char:EOLhyphen"/>of may be laid to your charge; and in the mean while only plea<g ref="char:EOLhyphen"/>ſure theſe whom ye account the Offenders themſelvs ſo extream highly, as to ſet them at perfect eaſe; free them from their care
+<pb n="80" facs="tcp:42870:44"/>and ſtudy, and give them the moſt voluptuous enjoyment of perpetual leaſure? A very little whereof, without our Acts, their buſie Conſciences would per<g ref="char:EOLhyphen"/>haps let them have.</p>
+            <p>They may thank you. But I will tell you a better courſe to puniſh a good Preacher for his Nonconformity than to pleaſure the fleſh, &amp; diſcharge him for it. Onely I muſt plead with you a little from the Argument I am upon (that is, <hi>Conſcience</hi>) in the way. Have there not been ſome, nay many of thoſe Miniſters, whom you have ejected by your Acts, ſerious Perſons, faithfull Labourers, and worthy of the Vineyard? And why have you impoſed ſuch conditions to the
+<pb n="81" facs="tcp:42870:44"/>entrance, or continuance of their Miniſtry, as they cannot yeeld unto without going againſt their Conſciences? Can you ſay that in theſe conditions you have re<g ref="char:EOLhyphen"/>ally condeſcended to them as far as poſſibly you could without ſinning againſt yours? And that you have done moreover all that you are able for their Reſtituti<g ref="char:EOLhyphen"/>on? Why then is your Peace with theſe men laid upon the ap<g ref="char:EOLhyphen"/>probation &amp; uſe of thoſe things which in their nature are diſpu<g ref="char:EOLhyphen"/>table and unneceſſary? The Church is a company of perſons profeſſing the belief and practiſe of thoſe things which <hi>Chriſt</hi> hath appointed to Salvation, &amp; when no more can indeed be required unto union than a joyning in the
+<pb n="82" facs="tcp:42870:45"/>owning and practiſing all things that are ſuch, why is there any thing that is not neceſſary to Eternal life made the condition to a man (after trial of his ſuffici<g ref="char:EOLhyphen"/>ency and allowance by Orders of performing his Miniſtry, any more than of his Communion with the Congregation?</p>
+            <p>Let a man then, once ordain<g ref="char:EOLhyphen"/>ed, any way, be ſtill held, and retained for a Labourer in the Harveſt. Let not the Maſter be offended who hath imployed him, nor his Talent be wrapped up: But let him be made a <hi>Gi<g ref="char:EOLhyphen"/>beonite</hi> to the ſons of the Church, that they may uſe him as an Aſ<g ref="char:EOLhyphen"/>ſiſtant for their burden, while Inſtitution and Induction is con<g ref="char:EOLhyphen"/>ferred only according to Law.
+<pb n="83" facs="tcp:42870:45"/>This will ſatisfie the <hi>ſincere Non<g ref="char:EOLhyphen"/>conformiſt,</hi> who will obtain here<g ref="char:EOLhyphen"/>by his main end, <hi>the glorifying God in his Calling:</hi> and this is the beſt way to fetch in others, who certainly will grow weary at the long-run, when they ſhall have Work provided them as Mini<g ref="char:EOLhyphen"/>ſters, but no Benefice until they conform.</p>
+            <p>When the <hi>Perſians</hi> had made a Bridge over the <hi>Helleſpont,</hi> and the <hi>Grecian</hi> Commanders were conſulting to break it down, it was <hi>Themeſtocles</hi>'s advice, by all means to let it ſtand; which when he perceived they were not like to entertain, he ſends privately word to the Enemy, what they were conſulting to do: They fearing thereupon leſt
+<pb n="84" facs="tcp:42870:46"/>they ſhould be prevented, march back ſuddenly in thoſe numbers which (if they had not had the means of returning) muſt have ſwallowed up the whole Coun<g ref="char:EOLhyphen"/>try. The Counſel of this <hi>Athe<g ref="char:EOLhyphen"/>nian</hi> ſhall be a Preſident to me in what I have been offering at this ſeaſon. There was a Bridge at his Majeſties return, in a trea<g ref="char:EOLhyphen"/>ty between the Biſhops and their fellow-endeavourers of his hap<g ref="char:EOLhyphen"/>pie Reſtauration, that was on building; a Bridge, not for any to depart Enemies from us, but for thoſe who are Brethren (of the ſame Religion, differing only in ſome circumſtances) to come over to You into Union and Concord with You. I know not by whoſe advice it was bro<g ref="char:EOLhyphen"/>ken
+<pb n="85" facs="tcp:42870:46"/>down; It may be, really, not by his Majeſties any more than by mine, who do ſtudy thus (if poſſible) to ſet it afoot, and would be content to have it re<g ref="char:EOLhyphen"/>built any way, rather than not at all. Let me hear that gracious word, <hi>Thus ſaith</hi> Cyrus, <hi>Ariſe and Build;</hi> and when 'tis builded I would have that Motto on it, as my Lo. <hi>Bacon</hi> hath on his Houſe (now the worthy Maſter of the Roll's) of <hi>Goram,</hi> being a modeſt but fair ſtructure, In the front of it there is this written, <hi>Medio<g ref="char:EOLhyphen"/>cria firma.</hi>
+            </p>
+            <p>If the Biſhops will not, yet may they at leaſt hear a little of his Majeſties, or the Nation's mind about it; That they may write down in the Book of what
+<pb n="86" facs="tcp:42870:47"/>hereafter ſhall befall them, <hi>Mo<g ref="char:EOLhyphen"/>niti meltora.</hi>
+            </p>
+            <p>There are, I perceive, many fears and hopes upon the minds of people, and the preſages of their hearts are many. I do not know whether there be any <hi>dark Notices</hi> from ſome Spirits that preſide over us, of ſome great Events ſometimes when they are near us: But methinks the minds of ſome have of late aboded us ſome very great Evil, or great Good, not to be far from us. For my own part as I am a Chri<g ref="char:EOLhyphen"/>ſtian, and born under the con<g ref="char:EOLhyphen"/>ſtitution of this State, I muſt profeſs and declare, that it is un<g ref="char:EOLhyphen"/>lawful for any to expect Delive<g ref="char:EOLhyphen"/>rance (I ſpeak it as to the Op<g ref="char:EOLhyphen"/>preſſed in the chiefeſt of their
+<pb n="87" facs="tcp:42870:47"/>poſſeſſions, their Conſciences) from any hands whatſoever, but his only, in whoſe are the heart of the King to turn it as the Ri<g ref="char:EOLhyphen"/>vers of Water. The Supream Authority lies in his breaſt, and if we go any way that is not in order to the attaining the ſtamp of his Will, <hi>a le Roy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Veult,</hi> we go out of the way of our Conſti<g ref="char:EOLhyphen"/>tution, and conſequently againſt the Ordinance of God in our Nation. <hi>Let every ſoul be ſubject to the higher Powers; for there is no Power but of God; and the Powers that be, are ordained of God. Whoſoever therefore reſiſteth the Power, reſiſteth the Ordinance of God; and they that reſiſt, ſhall receive to themſelves Damnation.</hi> But now, if it ſhall pleaſe Al<g ref="char:EOLhyphen"/>mighty
+<pb n="88" facs="tcp:42870:48"/>God to touch that Heart he hath in his hands, the Heart of his <hi>Sacred Majeſty,</hi> our Lord and King, with the prevalent ſentiments of Clemency and Mercy, of Nobleneſs and Pitty, of Righteouſneſs and Peace, ſo as he ſhall come to ſee, that this narrow uncatholick ſpirit, that would have the minds of all per<g ref="char:EOLhyphen"/>ſons, of every ſect and conditi<g ref="char:EOLhyphen"/>on, to be of the ſize of theirs only, is unbeſeeming his Royal Grace and Influence, who is not the Father only of the Circum<g ref="char:EOLhyphen"/>ciſed, but of the Uncircumciſed alſo: Then ſhall the Salvation of God come out of <hi>Zion,</hi> and the Captivity of his People be turned back. Then may thoſe bleſſed Seeds that were ſown in
+<pb n="89" facs="tcp:42870:48"/>his Majeſties wiſe and gracious <hi>Declaration</hi> ſo long ſince, revive, take root and ſpring up. Then may the <hi>Ejected Miniſters,</hi> and other Civil Officers worthy of truſt, that, like the Witneſſes in the <hi>Revelation,</hi> have lain dead for theſe three dayes (a day for a year) and half (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not a half, but half three dayes more) by their Civil death (inſomuch as others have come into their places, as dead by the Act) in a Street (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a certain Street</hi>) of the <hi>great City,</hi> (The great City, ſayes Mr. <hi>Mede,</hi> is <hi>Rome</hi> with her ten Tributary Kingdoms, whereof <hi>Britain</hi> was one) have a Spirit of Life enter and ſet them on their feet (that is, raiſe them from this conditi<g ref="char:EOLhyphen"/>on)
+<pb n="90" facs="tcp:42870:49"/>and they aſcend up in a cloud to Heaven (that is, with remark, to preferment) by the call of a Voice from thence (which can be no other than that of the Su<g ref="char:EOLhyphen"/>pream Magiſtrate) ſaying, <hi>Come up hither.</hi>
+            </p>
+            <p>Pardon the Alluſion, which ſeeing others are, or have been too apt to make uſe of, to the entertaining ſuch hopes and thoughts that are <hi>perhaps</hi> of dan<g ref="char:EOLhyphen"/>gerous conſequence, I would di<g ref="char:EOLhyphen"/>rect unto a Hope that is lawful, if at all there be any: while ſo many diſtreſſed Conſciences lie bleeding, and know not whither they are to have recourſe for ſuccour. May it therefore pleaſe his moſt excellent Majeſty, with the Lords and Gentlemen of
+<pb n="91" facs="tcp:42870:49"/>both Houſes, to take this Moti<g ref="char:EOLhyphen"/>on at their Seſſion into conſide<g ref="char:EOLhyphen"/>ration, that the matter being firſt duely weighed, debated, digeſt<g ref="char:EOLhyphen"/>ed, for the agreement of things <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſeem to differ, the difficul<g ref="char:EOLhyphen"/>ties may be cleared, inconveni<g ref="char:EOLhyphen"/>ences prevented, none diſplea<g ref="char:EOLhyphen"/>ſed: and ſo the <hi>Propoſer</hi> may have pardon, and the <hi>Propoſition a ſoit fait comme il e deſirè.</hi>
+            </p>
+            <p>Give Indulgence (ſtated con<g ref="char:EOLhyphen"/>ſultedly) and you remove Diſ<g ref="char:EOLhyphen"/>content. You put an end for e<g ref="char:EOLhyphen"/>ver to Sedition and Rebellion; You root out the ſeeds and fo<g ref="char:EOLhyphen"/>ment of them; You take away the very pretence. You pre<g ref="char:EOLhyphen"/>vent the Evil, you encourage the Well-meaning and Good. You will eſtabliſh the Church.
+<pb n="92" facs="tcp:42870:50"/>Do all good, No hurt. You will win our hearts; You will unite us at home; and for our Ene<g ref="char:EOLhyphen"/>mies abroad, if they dare, let them come. <hi>Ecce quam bonum &amp; amaenum eſt, habitare Fratre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> etiàm unà.</hi>
+            </p>
+            <p>VVhen <hi>Popilius</hi> came from <hi>Rome</hi> to <hi>Antiochus</hi> he declares his meſſage, that the Senate re<g ref="char:EOLhyphen"/>quired of him to withdraw his Armies from <hi>Egypt,</hi> for <hi>Ptolomy</hi> was their Friend and Confede<g ref="char:EOLhyphen"/>rate. The King anſwers, he will take reſpite and conſider of it. <hi>Popilius</hi> with the end of his Rod draws a Circle round about him upon the ground, <hi>Before you paſs this Circle</hi> (ſayes he) <hi>reſolve, that I may declare you Friend or Ene<g ref="char:EOLhyphen"/>my to the</hi> Romans. <hi>Antiochus,</hi>
+               <pb n="93" facs="tcp:42870:50"/>whether daunted at their known Power, or affected with the Bra<g ref="char:EOLhyphen"/>very; or whether (as is not un<g ref="char:EOLhyphen"/>likely) out of the <hi>Native good<g ref="char:EOLhyphen"/>neſs</hi> that accompanies Princes, which makes them receive ſuch unexpected Actions with grace, candour and generoſity, he ſee<g ref="char:EOLhyphen"/>ing indeed it was beſt for him; anſwered immediately, <hi>He would do as the Romans would have him.</hi>
+            </p>
+            <p>Great Sirs! I am come to You this day from an Authority <hi>more</hi> mighty than the Senate of <hi>Rome,</hi> in the Name of the Lord of Hoſts, the God of <hi>Iſrael.</hi> There are a People you proſecute in your Acts, that make conſcience of their wayes, and live peace<g ref="char:EOLhyphen"/>ably. Withdraw this Hoſtility of yours; for they ſerve God,
+<pb n="94" facs="tcp:42870:51"/>and are his Confederates, as well as you, or others; and he will bleſs thoſe that bleſs ſuch, and be an Enemy to their Enemies. Thus ſaith the Lord, <hi>Be merciful as your Father in heaven is merci<g ref="char:EOLhyphen"/>ful.</hi> Before you paſs over theſe few Lines that are left, Reſolve, whether you will be like him, or like him not? Reſolve, that I may declare you to be his Sons; and him no Enemy, but a Friend, to our Sovereign, and to his People. <hi>And it came to paſs as he was ſpeaking, Amaziah ſaid unto him, Art thou made of the Kings Counſel? Forbear, why ſhouldeſt thou be ſmitten? Then the Prophet forbare.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>June the 18th. 1667.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:42870:51"/>
+            <p>
+               <hi>Reader,</hi> By reaſon of the Author's abſence from the Preſs, theſe faults have eſcaped, which thou art deſired thus to amend with thy Pen.</p>
+            <p>Page 6. line 3. for <hi>we,</hi> read <hi>you.</hi> p. 10 l. 2. f. <hi>theſe,</hi> 1. <hi>thoſe.</hi> &amp; l. 4. f. <hi>thoſe</hi> 1. <hi>their.</hi> p. 11. l. 10. f. <hi>viros</hi> 1. <hi>vicos.</hi> p. 17. l. 2. f. <hi>ni</hi> r. <hi>in.</hi> p. 25. l. 18. f. <hi>Ve<g ref="char:EOLhyphen"/>ſtitum</hi> r. <hi>Vetitum.</hi> p. 35. l. 7. f. <hi>where</hi> r. <hi>when.</hi> p. 53. l. 15. f. <hi>Namquid,</hi> r. <hi>Nam quod.</hi> &amp; l. 17. f. <hi>ſtultae</hi> r. <hi>ſtulta.</hi> p. 57. l. 17. f. <hi>amo-ares</hi> r. <hi>amours.</hi> p. 62. l. 7. f. <hi>Cauſes</hi> 1. <hi>Cauſe.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
